@@ -1,0 +1,4 @@
+dynamic-sizedList: Lists are just like dynamic-sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python. The main characteristics of lists are – 
+The list is a datatype available in Python which can be written as a list of comma-separated values (items) between square brackets.
+List are mutable .i.e it can be converted into another data type and can store any data element in it.
+List can store any type of element.
